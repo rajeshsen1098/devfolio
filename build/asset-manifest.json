@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8aec787d.css",
+    "main.js": "/static/js/main.393a376b.js",
+    "static/js/787.fa1d132e.chunk.js": "/static/js/787.fa1d132e.chunk.js",
+    "static/media/main-video.mp4": "/static/media/main-video.8e88b73ed8e47c0531a9.mp4",
+    "static/media/poland-map.jpg": "/static/media/poland-map.130b34228c49a8078e48.jpg",
+    "static/media/background-img.jpg": "/static/media/background-img.b13e92d54491b31b5bd0.jpg",
+    "static/media/pomerania-map.jpg": "/static/media/pomerania-map.3eb849a21fd178c58309.jpg",
+    "static/media/tier-50.png": "/static/media/tier-50.3081e70cf76293f340b1.png",
+    "static/media/profile-avatar.webp": "/static/media/profile-avatar.ac2454b06f82de111025.webp",
+    "index.html": "/index.html",
+    "main.8aec787d.css.map": "/static/css/main.8aec787d.css.map",
+    "main.393a376b.js.map": "/static/js/main.393a376b.js.map",
+    "787.fa1d132e.chunk.js.map": "/static/js/787.fa1d132e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aec787d.css",
+    "static/js/main.393a376b.js"
+  ]
+}
